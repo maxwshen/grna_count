@@ -1,0 +1,21 @@
+Name,Barcode,Index,Replicate,Type,Celltype,Library,Technical name
+Bulk-before-Cas9-GFP_1k-rep1,actag,TAGGCATG,1,Bulk before Cas9,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1
+Bulk-before-Cas9-GFP_1k-rep2,tgc,TAGGCATG,2,Bulk before Cas9,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2
+Bulk-after-Cas9-GFP_1k-rep1,tatgct,TAGGCATG,1,Bulk after Cas9,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1
+Bulk-after-Cas9-GFP_1k-rep2,cgaacat,TAGGCATG,2,Bulk after Cas9,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2
+Bulk-after-dSa_APA-GFP_1k-rep1_1,cacttgat,TAGGCATG,1,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1_1
+Bulk-after-dSa_APA-GFP_1k-rep1_2,aacg,TAGGCATG,1,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1_2
+Bulk-after-dSa_APA-GFP_1k-rep2_1,cag,TAGGCATG,2,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2_1
+Bulk-after-dSa_APA-GFP_1k-rep2_2,ttgcat,TAGGCATG,2,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2_2
+GFP-loss-after-dSa_APA-GFP_1k-rep1_1,cgttccgat,TAGGCATG,1,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1_1
+GFP-loss-after-dSa_APA-GFP_1k-rep1_2,actag,CTCTCTAC,1,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep1_2
+GFP-loss-after-dSa_APA-GFP_1k-rep2_1,tgc,CTCTCTAC,2,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2_1
+GFP-loss-after-dSa_APA-GFP_1k-rep2_2,tatgct,CTCTCTAC,2,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep2_2
+Bulk-after-dSa_APA-GFP_1k-rep3_1,cgaacat,CTCTCTAC,3,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep3_1
+Bulk-after-dSa_APA-GFP_1k-rep3_2,cacttgat,CTCTCTAC,3,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep3_2
+Bulk-after-dSa_APA-GFP_1k-rep4_1,aacg,CTCTCTAC,4,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep4_1
+Bulk-after-dSa_APA-GFP_1k-rep4_2,cag,CTCTCTAC,4,Bulk after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep4_2
+GFP-loss-after-dSa_APA-GFP_1k-rep3_1,ttgcat,CTCTCTAC,3,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep3_1
+GFP-loss-after-dSa_APA-GFP_1k-rep3_2,cgttccgat,CTCTCTAC,3,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep3_2
+GFP-loss-after-dSa_APA-GFP_1k-rep4_1,actag,TAAGGCGA,4,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep4_1
+GFP-loss-after-dSa_APA-GFP_1k-rep4_2,tgc,TAAGGCGA,4,GFP loss after dSa_APA,mouseES,DNArepairMouse,mouseES_H3.1-GFP_1k_rep4_2

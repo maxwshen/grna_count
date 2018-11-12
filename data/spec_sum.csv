@@ -1,0 +1,13 @@
+Library,Combination name,Comma-separated list of components,,,,,,,
+DNArepairMouse,Bulk-before-Cas9-GFP_1k-tot,Bulk-before-Cas9-GFP_1k-rep1,Bulk-before-Cas9-GFP_1k-rep2,,,,,,
+DNArepairMouse,Bulk-after-Cas9-GFP_1k-tot,Bulk-after-Cas9-GFP_1k-rep1,Bulk-after-Cas9-GFP_1k-rep2,,,,,,
+DNArepairMouse,Bulk-after-dSa_APA-GFP_1k-rep1-tot,Bulk-after-dSa_APA-GFP_1k-rep1_1,Bulk-after-dSa_APA-GFP_1k-rep1_2,,,,,,
+DNArepairMouse,Bulk-after-dSa_APA-GFP_1k-rep2-tot,Bulk-after-dSa_APA-GFP_1k-rep2_1,Bulk-after-dSa_APA-GFP_1k-rep2_2,,,,,,
+DNArepairMouse,GFP-loss-after-dSa_APA-GFP_1k-rep1-tot,GFP-loss-after-dSa_APA-GFP_1k-rep1_1,GFP-loss-after-dSa_APA-GFP_1k-rep1_2,,,,,,
+DNArepairMouse,GFP-loss-after-dSa_APA-GFP_1k-rep2-tot,GFP-loss-after-dSa_APA-GFP_1k-rep2_1,GFP-loss-after-dSa_APA-GFP_1k-rep2_2,,,,,,
+DNArepairMouse,Bulk-after-dSa_APA-GFP_1k-rep3-tot,Bulk-after-dSa_APA-GFP_1k-rep3_1,Bulk-after-dSa_APA-GFP_1k-rep3_2,,,,,,
+DNArepairMouse,Bulk-after-dSa_APA-GFP_1k-rep4-tot,Bulk-after-dSa_APA-GFP_1k-rep4_1,Bulk-after-dSa_APA-GFP_1k-rep4_2,,,,,,
+DNArepairMouse,GFP-loss-after-dSa_APA-GFP_1k-rep3-tot,GFP-loss-after-dSa_APA-GFP_1k-rep3_1,GFP-loss-after-dSa_APA-GFP_1k-rep3_2,,,,,,
+DNArepairMouse,GFP-loss-after-dSa_APA-GFP_1k-rep4-tot,GFP-loss-after-dSa_APA-GFP_1k-rep4_1,GFP-loss-after-dSa_APA-GFP_1k-rep4_2,,,,,,
+DNArepairMouse,GFP-loss-after-dSa_APA-GFP_1k-tot,GFP-loss-after-dSa_APA-GFP_1k-rep1_1,GFP-loss-after-dSa_APA-GFP_1k-rep1_2,GFP-loss-after-dSa_APA-GFP_1k-rep2_1,GFP-loss-after-dSa_APA-GFP_1k-rep2_2,GFP-loss-after-dSa_APA-GFP_1k-rep3_1,GFP-loss-after-dSa_APA-GFP_1k-rep3_2,GFP-loss-after-dSa_APA-GFP_1k-rep4_1,GFP-loss-after-dSa_APA-GFP_1k-rep4_2
+DNArepairMouse,Bulk-after-dSa_APA-GFP_1k-tot,Bulk-after-dSa_APA-GFP_1k-rep1_1,Bulk-after-dSa_APA-GFP_1k-rep1_2,Bulk-after-dSa_APA-GFP_1k-rep2_1,Bulk-after-dSa_APA-GFP_1k-rep2_2,Bulk-after-dSa_APA-GFP_1k-rep3_1,Bulk-after-dSa_APA-GFP_1k-rep3_2,Bulk-after-dSa_APA-GFP_1k-rep4_1,Bulk-after-dSa_APA-GFP_1k-rep4_2
