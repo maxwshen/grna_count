@@ -40,7 +40,7 @@ def find_grna(exp, grna_set, seq):
   num_found = 0
   
   start_idx = len('TGTGGAAAGGACGAAACACC')
-  bp_relax = 10
+  bp_relax = 1
   starts = range(start_idx - bp_relax, start_idx + bp_relax + 1)
   lens = [21, 20, 19]
   seqs = []
